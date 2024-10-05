@@ -35,7 +35,7 @@
 <p>This project demonstrates how to use a Decision Tree Classifier to classify iris species with high accuracy. By leveraging the <code>scikit-learn</code> library and the Iris dataset, we can build a model that is both interpretable and highly effective in solving classification problems.</p>
 
 <h2>Accuracy</h2>
-    <p>The accuracy of this model is 97% and for more observation check my <strong>"Notebooks\Decision Tree Classifier (Iris Dataset).ipynb" </strong></p>
+    <p>The accuracy of this model is <strong> 97% </strong> and for more observation check my <strong>"Notebooks\Decision Tree Classifier (Iris Dataset).ipynb" </strong></p>
 
 <h3>Future Improvements</h3>
 <ul>
