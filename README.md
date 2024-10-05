@@ -2,6 +2,7 @@
 
 <p>This project is a machine learning model that classifies the species of iris flowers using a <strong>Decision Tree Classifier</strong>. The classifier has been trained on the famous <strong>Iris Dataset</strong> and achieves an accuracy of <strong>97%</strong>.</p>
 
+<img src="image.png"  width="1000" height="600">
 <h2>Overview</h2>
 <p>The Iris dataset is a widely used dataset for classification problems in machine learning. It contains 150 samples of iris flowers, each described by four features:</p>
 <ul>
