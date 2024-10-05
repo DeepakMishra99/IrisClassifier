@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Model Description</h2>
-<p>We have used a <strong>Decision Tree Classifier</strong> from the <code>scikit-learn</code> library to train this model. The model has achieved an accuracy of 97% on the test dataset. Below is an example of how the model can be used to classify iris species.</p>
+<p>We have used a <strong>Decision Tree Classifier</strong> from the <code>scikit-learn</code> library to train this model. The model has achieved an accuracy of<strong> 97% </strong> on the test dataset. Below is an example of how the model can be used to classify iris species.</p>
 
 <h3>Libraries Used</h3>
 <ul>
